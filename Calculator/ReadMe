@@ -1,0 +1,5 @@
+This simple calculator runs on avr (atmega32) can do operation between
+two operands with 2 digits 
+connect (4*4) keypad on portD
+connect LCD on portA
+look at interfacing of component
